@@ -44,11 +44,11 @@ const LandingHero: React.FC<LandingHeroProps> = ({ onRoleSelect }) => {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-background via-background to-secondary/20">
-      {/* NNCR Logo in top left */}
+      {/* NCCR Logo in top left */}
       <div className="absolute top-4 left-4 z-10">
         <img 
-          src="/images/NNCR.png" 
-          alt="NNCR Logo" 
+          src="/images/NCCR.png" 
+          alt="NCCR Logo" 
           className="h-12 w-auto"
         />
       </div>
